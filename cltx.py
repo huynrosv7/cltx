@@ -1,8 +1,8 @@
 from random import randint
 
-print("|===================tool=report=facebook===================|")
+print("|======================CHẲNG=LẺ=TÀI=XỈU====================|")
 print("|                                                          |")
-print("|                        tool by huy                       |")
+print("|                        make by huy                       |")
 print("|                                                          |")
 print("|                        do not reup                       |")
 print("|                                                          |")
